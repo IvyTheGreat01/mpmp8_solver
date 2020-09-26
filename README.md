@@ -2,7 +2,7 @@ This C program solves Matt Parker's Math Puzzle 8: The Stack Folding Challenge
 
 Puzzle: https://youtu.be/GpClxF41ugg
 
-Solution: Not yet up
+Solution: https://youtu.be/HGNJV9DOR4c
 
 To use the program compile it with the Makefile and run ./stack
 
